@@ -1,0 +1,15 @@
+{
+    "version": "0.3.5",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/jleal52/claude-switch/releases/download/v0.3.5/claude-switch_0.3.5_windows_amd64.zip",
+            "bin": [
+                "claude-switch.exe"
+            ],
+            "hash": "d0b31abc00e94c962830761e4bb5d49ac7fc0de9f0ebd18a7b3cf54487d36860"
+        }
+    },
+    "homepage": "https://github.com/jleal52/claude-switch",
+    "license": "Proprietary",
+    "description": "Wrapper that drives multiple Claude CLI sessions remotely over WebSocket."
+}
